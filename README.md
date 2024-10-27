@@ -14,15 +14,6 @@ provider for State Management.
 
 syncfusion flutter charts for creating charts.
 
-## Screenshots
-
-![App Screenshot](https://github.com/user-attachments/assets/6325887d-b71a-49e6-88e5-8edd9c00eda7)
-## Demo
-
-[Video](https://github.com/user-attachments/assets/51203550-84a7-43c4-8f77-224af66269f7)
-
-open this link with google drive account
-[Apk Link](https://drive.google.com/file/d/1lkYzX0T0ZijfeLBPo0SlXJwvFl5eq_58/view?usp=drive_link)
 ## Documentation
 
 ### Creating this app with MVVM Flutter Clean Architecture Code.
@@ -52,3 +43,13 @@ open this link with google drive account
 
 
 
+
+## Screenshots
+
+![App Screenshot](https://github.com/user-attachments/assets/6325887d-b71a-49e6-88e5-8edd9c00eda7)
+## Demo
+
+[Video](https://github.com/user-attachments/assets/51203550-84a7-43c4-8f77-224af66269f7)
+
+open this link with google drive account
+[Apk Link](https://drive.google.com/file/d/1lkYzX0T0ZijfeLBPo0SlXJwvFl5eq_58/view?usp=drive_link)
