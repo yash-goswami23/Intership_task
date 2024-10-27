@@ -40,7 +40,7 @@ open this link with google drive account
 ### domain
 **entities :** for presentation models data class.
 
-**use cases :** for adding features or logic      
+**use cases :** for adding features or logic.      
 
 ### presentation
 
